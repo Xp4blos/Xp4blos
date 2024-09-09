@@ -23,6 +23,14 @@ When I'm not coding, you can find me attending various IT events and hackathons,
 
 Let's connect and create something amazing together!
 
-<div>
-<img src="https://symbols.getvecta.com/stencil_25/0_angular.fe63c22e96.svg">
+<div style="display: flex">
+<img style="height:50px" src="https://symbols.getvecta.com/stencil_25/0_angular.fe63c22e96.svg">
+<img style="height:50px" src="https://symbols.getvecta.com/stencil_25/5_bootstrap.bbf5d3d59c.svg">
+<img style="height:50px" src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg">
+<img style="height:50px" src="https://symbols.getvecta.com/stencil_25/37_html5.d4d8050235.svg">
+<img style="height:50px" src="https://symbols.getvecta.com/stencil_25/77_sass.57898c574e.svg">
+<img style="height:50px" src="https://symbols.getvecta.com/stencil_25/41_javascript.0ca26ec4ab.svg">
+<img style="height:50px" src="https://symbols.getvecta.com/stencil_25/87_typescript.cb2d7326fa.svg">
+<img style="height:50px" src="https://symbols.getvecta.com/stencil_25/16_wordpress-blue.2c33385ddd.svg">
+
 </div>
