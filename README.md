@@ -23,9 +23,9 @@ When I'm not coding, you can find me attending various IT events and hackathons,
 
 Let's connect and create something amazing together!
 
-<b> Technologies </b>
+🧰 <b> Languages and tools </b>
 
-<div style="display: flex">
+<div style="display: flex; jusify-content: space-evenly">
 <img style="height:50px; padding: 5px" src="https://symbols.getvecta.com/stencil_25/0_angular.fe63c22e96.svg">
 <img style="height:50px; padding: 5px " src="https://symbols.getvecta.com/stencil_25/5_bootstrap.bbf5d3d59c.svg">
 <img style="height:50px; padding: 5px" src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg">
