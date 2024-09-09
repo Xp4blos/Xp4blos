@@ -23,6 +23,8 @@ When I'm not coding, you can find me attending various IT events and hackathons,
 
 Let's connect and create something amazing together!
 
+<hr>
+
 🧰 <b> Languages and tools </b>
 
 <div style="display: flex; jusify-content: space-evenly">
